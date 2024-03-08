@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NottaYeger
 - 👀 I’m interested in a lot of stuff.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning HTML/CSS/JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
